@@ -5,19 +5,19 @@
 
 @font-face {
     font-family: 'idroid';
-    src: url(/fontes/idroid.otf);
+    src: url('../fontes/idroid.otf');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'BebasNeueBold';
-    src: url(/fontes/BebasNeueBold-7B9LE.ttf);
+    src: url('../fontes/BebasNeueBold-7B9LE.ttf');
 }
 
 @font-face {
     font-family: 'BebasNeueBook';
-    src: url(/fontes/BebasNeueBook-d9A1l.ttf);
+    src: url('../fontes/BebasNeueBook-d9A1l.ttf');
 }
 
 header{
